@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirupa Krishan G</h1>
-<h3 align="center">A Passionate Electrical Engineer From India</h3>
+<h3 align="center">A Passionate Electronics Engineer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirupakrishan&label=Profile%20views&color=0e75b6&style=flat" alt="kirupakrishan" /> </p>
 
